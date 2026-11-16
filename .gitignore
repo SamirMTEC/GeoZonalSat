@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local processing outputs and geographic data
+GeoZonalSat_Projeto/
+cache/
+logs/
+rasters/
+relatorios/
+tabelas/
+*.tif
+*.tiff
+*.jp2
+*.vrt
+*.img
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qgz
+
+# Empty local study note (not part of the plugin)
+GUIA_DE_ESTUDO_GEOZONALSAT.md

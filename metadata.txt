@@ -1,0 +1,13 @@
+[general]
+name=GeoZonalSat
+description=Plugin QGIS para busca Sentinel-2, calculo de indices espectrais e estatisticas zonais automaticas.
+about=GeoZonalSat calcula estatisticas zonais reais em rasters locais ou imagens Sentinel-2 L2A buscadas no catalogo STAC Earth Search. O plugin nao simula cenas: quando nao ha imagem real, informa indisponibilidade.
+version=0.6.0
+qgisMinimumVersion=3.16
+author=GeoZonalSat
+email=
+category=Raster
+icon=
+experimental=True
+deprecated=False
+tags=zonal statistics,ndvi,sentinel,landsat,raster,vegetation
